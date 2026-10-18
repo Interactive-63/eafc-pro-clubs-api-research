@@ -264,7 +264,7 @@ You can contribute by:
 * Correcting inaccurate or outdated information.
 * Improving the documentation and examples.
 
-Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting a change.
+Please see [`CONTRIBUTING.md`](.github/CONTRIBUTING.md) before submitting a change.
 
 For new event mappings, include the evidence supporting the proposed interpretation. A correlation or single match observation is useful as a starting point, but should not automatically be treated as a confirmed formula.
 
